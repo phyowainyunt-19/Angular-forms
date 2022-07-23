@@ -1,6 +1,6 @@
 ## Angular Forms
 
-Template Driven Forms (TDF)
+Template Driven Forms (TDF) | 
 
 ## Project Status
 
