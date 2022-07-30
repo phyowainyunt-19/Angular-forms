@@ -10,5 +10,5 @@ export class AppComponent {
   topics = ['Angular', 'React', 'Vue']
 
   //useModel
-  userModel = new User('Pwn', 'pwn@test.com', 55559999, '','morning', false);
+  userModel = new User('', 'pwn@test.com', 55559999, '','morning', false);
 }
