@@ -37,4 +37,6 @@ export class AppComponent {
       error: () => { console.error() }
     });
   }
+
+  // code reviewed
 }
